@@ -2,8 +2,8 @@
 GeekMagic S3 project for fun.
 
 
-
-
+Hardware from:
+https://www.aliexpress.com/item/3256807368227919.html
 
 
 
